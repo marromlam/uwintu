@@ -24,3 +24,8 @@ GUI Qt can give some issues:
 ```
 xhost +local:docker 
 ```
+
+
+## References
+https://github.com/Jencryzthers/VboxInsideDocker
+...
